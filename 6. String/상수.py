@@ -1,5 +1,8 @@
-a, b = input().split
+a, b = input().split()
 
-a = a[::-1]
-b = b[::-1]
-print(max(a,b))
+a = int(a[::-1])
+b = int(b[::-1])
+if a > b:
+    print(a)
+else :
+    print(b)
