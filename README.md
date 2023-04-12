@@ -35,9 +35,8 @@ tmp = sys.stdin.readline()
 
 > 공부하기 좋은 코드 
 
-[2751 수 정렬하기 2.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Silver/2751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
-
-[1225 이상한 곱셈.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Bronze/1225%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EA%B3%B1%EC%85%88.py)
+- [2751 수 정렬하기 2.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Silver/2751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
+- [1225 이상한 곱셈.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Bronze/1225%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EA%B3%B1%EC%85%88.py)
 
 ## 메모리 초과
 
@@ -58,7 +57,4 @@ num_list = [i for i in range(10000)]
 
 > 공부하기 좋은 코드 
 
-[10989 수 정렬하기 3.py ](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Bronze/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203.py)
-
-
-
+- [10989 수 정렬하기 3.py ](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Bronze/10989%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%203.py)
