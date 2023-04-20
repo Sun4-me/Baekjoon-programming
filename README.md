@@ -3,14 +3,19 @@
 
 ---
 
-# Baekjoon
+## Algorithm Theory
+
+- 🔗 https://github.com/ndb796/python-for-coding-test 
+- 📕 이것이 코딩 테스트다 with 파이썬 / 나동빈
+
+## Baekjoon
 꾸준한 알고리즘 연습 일기장
 - Since 2022.12.29 ~
 - 나의 백준 현황 : [ 백준(sun4_me) ](https://www.acmicpc.net/user/sun4_me)
 - `Python3`
 
 
-#### 목표
+### 목표
 - **매일** 최소 두 문제 이상 풀기
 - 도저히 방법을 모를 때 까지 스스로 풀기
 - 맞춘 문제도 간소화, 다른 풀이 방법 고민하기
@@ -18,8 +23,8 @@
 
 ---
 
-# Tip
-## 시간 초과 / 입출력 속도 개선하기
+## Tip
+### 시간 초과 / 입출력 속도 개선하기
 
 - input()
   ```py
@@ -44,7 +49,7 @@ tmp = sys.stdin.readline()
 - [2751 수 정렬하기 2.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Silver/2751%20%EC%88%98%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
 - [1225 이상한 곱셈.py](https://github.com/Sun4-me/Baekjoon/blob/d90007e2c219a6a73068d6b334f77e691af85001/Bronze/1225%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EA%B3%B1%EC%85%88.py)
 
-## 메모리 초과
+### 메모리 초과
 
 - List Comprehension 사용하기
 
