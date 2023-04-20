@@ -5,8 +5,6 @@
 
 ## Algorithm Theory
 
-*철저한 알고리즘 이론 공부장*
-
 - 🔗 https://github.com/ndb796/python-for-coding-test 
 
 - 📕 이것이 코딩 테스트다 with 파이썬 / 나동빈
@@ -14,8 +12,6 @@
 <br />
 
 ## Baekjoon
-
-*꾸준한 알고리즘 연습 일기장*
 
 - Since 2022.12.29 ~
 
