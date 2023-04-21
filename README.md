@@ -5,9 +5,9 @@
 
 ## Algorithm Theory
 
-- 🔗 https://github.com/ndb796/python-for-coding-test 
-
 - 📕 이것이 코딩 테스트다 with 파이썬 / 나동빈
+
+- 🔗 https://github.com/ndb796/python-for-coding-test 
 
 <br />
 
