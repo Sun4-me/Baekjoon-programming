@@ -32,7 +32,7 @@
 
 ---
 
-## Tip
+## Tips for Debugging and Error Handling
 ### 시간 초과 / 입출력 속도 개선하기
 
 - input()
