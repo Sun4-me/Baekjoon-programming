@@ -13,11 +13,13 @@
 
 ## Baekjoon
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun4_me)](https://solved.ac/sun4_me/)
+
 - Since 2022.12.29 ~
 
 - 나의 백준 현황 : [ 백준(sun4_me) ](https://www.acmicpc.net/user/sun4_me)
 
-- `Python3`
+- `Python3`, `PyPy3`
 
 
 ### 목표
